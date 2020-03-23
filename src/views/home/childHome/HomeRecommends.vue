@@ -24,7 +24,6 @@
 <style scoped>
 #recommends{
   display: flex;
-  height: 30px;
   width: 100%;
   text-align: center;
   font-size: 12px;
